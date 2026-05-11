@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋Hi there, II'm Turjo Mondal 
 
 <!--
 **Turjo-2002/Turjo-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
