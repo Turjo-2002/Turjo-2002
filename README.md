@@ -1,6 +1,9 @@
 ## 👋Hi there, II'm Turjo Mondal 
+🎓 Computer Science & Engineering Student @SEU
+<!🌍 Dhaka, Bangladesh
 
-<!--
+🔥 About Me
+💻 Skilled in Python, JavaSwing, C, C++, SQL, Java
 **Turjo-2002/Turjo-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
